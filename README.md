@@ -5,7 +5,8 @@ A general introduction of GAN for the lab seminar. This repository is organized 
 ### datasets
     Basic datasets.
     For images, we have cifar-10 and mnist.
-    For the music, we offer the 'tab' dataset. We represents the music in so called 'piano-roll' fromat, which is a binary and sparse tensor.
+    For the music, we offer the 'tab' dataset. We represents the music in so called 'piano-roll' fromat,
+    which is a binary and sparse tensor.
 
 ### ref
     paper backup
@@ -15,13 +16,8 @@ A general introduction of GAN for the lab seminar. This repository is organized 
 
 ### topics
     Implementation of the aforementioned topics in the slides. All are written in Tenseoflow.
+- single image genration:  
+    SN-GAN, WGAN-GP  
 
-    o single image genration
-        SN-GAN, WGAN-GP
-
-    o conditional generation
-        concatenation, ACGAN
-
-    x video generaion
-    x time series generation
-    x text generation
+- conditional generation:    
+    concatenation, ACGAN  
