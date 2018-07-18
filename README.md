@@ -1,6 +1,12 @@
 # Tutorial Materials for Generative Adversarial Nets (GANs)
 
-A general introduction of GAN for the lab seminar. This repository is organized as the following:
+A general introduction of GAN for the lab seminar. 
+
+![image](https://github.com/wayne391/GAN-tutorial/blob/master/ref/samples/cifar10_sngan.png)
+![image](https://github.com/wayne391/GAN-tutorial/blob/master/ref/samples/mnist_acgan.png)
+![image](https://github.com/wayne391/GAN-tutorial/blob/master/ref/samples/tab_wgan_gp.png)
+
+This repository is organized as the following:
 
 ### datasets
     Basic datasets.
