@@ -1,6 +1,6 @@
 # Tutorial Materials for Generative Adversarial Nets (GANs)
 
-A general introduction of GAN for the lab seminar. Here are some generated smaples:
+A general introduction of GAN for the lab seminar. Here are some generated smples:
 
 ![image](https://github.com/wayne391/GAN-tutorial/blob/master/ref/samples/cifar10_sngan.png)
 ![image](https://github.com/wayne391/GAN-tutorial/blob/master/ref/samples/mnist_acgan.png)
