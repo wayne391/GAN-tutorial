@@ -10,6 +10,10 @@ A general introduction of GAN for the lab seminar. Here are some generated sampl
 
 This repository is organized as the following:
 
+### pytorch
+    pytotch (version 1.0) implementation. WGAN-gp
+    
+
 ### datasets
     Basic datasets.
     For images, we have cifar-10 and mnist.
